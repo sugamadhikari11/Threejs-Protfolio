@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         generalsans: ['General Sans', 'sans-serif'],
       },
+      gradientColorStops: {
+        '60%': '#D5D8EA', // Define a stop at 60%
+        '100%': '#D5D8EA', // Define a stop at 100%
+      },
       colors: {
         black: {
           DEFAULT: '#000',
